@@ -10,7 +10,7 @@
     ".cspell.json",
     ".gitignore",
     ".markdownlint-cli2.jsonc",
-    ".textlintrc",
+    ".textlintrc.json",
     "package.json",
     "package.lock.json",
     "qiita.config.json"
