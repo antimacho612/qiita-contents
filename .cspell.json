@@ -5,8 +5,9 @@
   "words": [],
   "ignorePaths": [
     ".vscode",
+    ".husky",
     "node_modules",
-    "prh/**/*.*",
+    "prh",
     ".cspell.json",
     ".gitignore",
     ".markdownlint-cli2.jsonc",
