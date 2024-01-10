@@ -2,9 +2,9 @@
   "scripts": {
     "preview": "npx qiita preview",
     "lint:markdown": "markdownlint-cli2 \"public/*.md\"",
-    "lint:textlint": "textlint \"public/*.md\"",
-    "lint:cspell": "cspell \"public/*.md\"",
-    "lint": "npm run lint:markdown && npm run lint:textlint && npm run lint:cspell"
+    "lint:text": "textlint \"public/*.md\"",
+    "lint:spell": "cspell \"public/*.md\"",
+    "lint": "npm run lint:markdown && npm run lint:text && npm run lint:spell"
   },
   "devDependencies": {
     "@qiita/qiita-cli": "^1.3.1",
