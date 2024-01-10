@@ -1,9 +1,7 @@
 {
   "plugins": {
     "@textlint/markdown": {
-      "extensions": [
-        ".md"
-      ]
+      "extensions": [".md"]
     }
   },
   "filters": {
@@ -11,9 +9,7 @@
   },
   "rules": {
     "prh": {
-      "rulePaths": [
-        "./prh/index.yml"
-      ]
+      "rulePaths": ["./prh/index.yml"]
     },
     "preset-ja-technical-writing": {
       "sentence-length": {
@@ -25,18 +21,11 @@
       },
       "ja-no-successive-word": false,
       "ja-no-mixed-period": {
-        "allowPeriodMarks": [
-          ":",
-          "："
-        ]
+        "allowPeriodMarks": [":", "："]
       },
       "no-doubled-joshi": {
         "strict": false,
-        "allow": [
-          "も",
-          "や",
-          "か"
-        ],
+        "allow": ["も", "や", "か"],
         "separatorCharacters": [
           ",",
           "，",
