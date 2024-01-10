@@ -1,0 +1,18 @@
+// https://cspell.org/configuration/
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [],
+  "ignorePaths": [
+    ".vscode",
+    "node_modules",
+    "prh/**/*.*",
+    ".cspell.json",
+    ".gitignore",
+    ".markdownlint-cli2.jsonc",
+    ".textlintrc",
+    "package.json",
+    "package.lock.json",
+    "qiita.config.json"
+  ]
+}
