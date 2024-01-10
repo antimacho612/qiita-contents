@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "taichi.vscode-textlint",
+    "davidanson.vscode-markdownlint",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
