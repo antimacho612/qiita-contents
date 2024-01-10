@@ -4,9 +4,7 @@
       "extensions": [".md"]
     }
   },
-  "filters": {
-    "comments": true
-  },
+  "filters": {},
   "rules": {
     "prh": {
       "rulePaths": ["./prh/index.yml"]
