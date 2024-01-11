@@ -17,7 +17,9 @@
     "lint-staged": "^15.2.0",
     "markdownlint-cli2": "^0.11.0",
     "textlint": "^13.4.1",
-    "textlint-rule-preset-ja-spacing": "^2.3.0",
-    "textlint-rule-preset-ja-technical-writing": "^10.0.1"
+    "textlint-rule-ja-no-redundant-expression": "^4.0.1",
+    "textlint-rule-ja-unnatural-alphabet": "^2.0.1",
+    "textlint-rule-no-doubled-joshi": "^5.1.0",
+    "textlint-rule-preset-ja-spacing": "^2.3.0"
   }
 }

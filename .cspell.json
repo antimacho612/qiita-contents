@@ -2,7 +2,11 @@
 {
   "version": "0.2",
   "language": "en",
-  "words": [],
+  "words": [
+    "audiomotion",
+    "Muwviz",
+    "webm"
+  ],
   "ignorePaths": [
     ".vscode",
     ".husky",

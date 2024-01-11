@@ -1,4 +1,9 @@
 {
   // https://github.com/DavidAnson/markdownlint/blob/main/README.md
-  "config": {}
+  "config": {
+    "no-bare-urls": false,
+    "no-inline-html": {
+      "allowed_elements": ["img"]
+    }
+  }
 }
