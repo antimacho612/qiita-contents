@@ -1,14 +1,14 @@
 ---
 title: 【Electron + Vite + Vue】音楽再生アプリ「Muwviz」を作成しました
 tags:
-  - Electron
-  - Vue.js
-  - vite
   - TypeScript
+  - Vue.js
+  - Electron
   - 個人開発
+  - vite
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-01-11T20:07:24+09:00'
+id: 1f041e20c0d745ca358b
 organization_url_name: null
 slide: false
 ignorePublish: false
