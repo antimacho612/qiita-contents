@@ -8,7 +8,11 @@
     "prepare": "husky install"
   },
   "lint-staged": {
-    "public/*.md": "npm run lint"
+    "public/*.md": [
+      "markdownlint-cli2",
+      "textlint",
+      "cspell"
+    ]
   },
   "devDependencies": {
     "@qiita/qiita-cli": "^1.3.1",
