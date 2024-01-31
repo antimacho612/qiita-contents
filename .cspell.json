@@ -14,6 +14,7 @@
     ".textlintrc.json",
     "package.json",
     "package.lock.json",
-    "qiita.config.json"
+    "qiita.config.json",
+    "renovate.json"
   ]
 }
