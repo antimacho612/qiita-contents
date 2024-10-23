@@ -20,10 +20,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
         with:
           fetch-depth: 0
-      - uses: increments/qiita-cli/actions/publish@v1
+      - uses: increments/qiita-cli/actions/publish@cfb85137952f978957dc04eae87286f0e2dc9d1d # v1
         with:
           qiita-token: ${{ secrets.QIITA_TOKEN }}
           root: "."
